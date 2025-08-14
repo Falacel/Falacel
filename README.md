@@ -16,13 +16,12 @@
 - **App de Tareas:** Aplicación Android para organizar recordatorios y tareas  
 - **Mini Juegos y ejercicios prácticos** durante la formación
 
-## 🌟 GitHub Stats
-![GitHub stars](https://img.shields.io/github/stars/tuusuario?style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)
-
 ## 📫 Contacto
 - Email: andres_1002@hotmail.com
 
 ## ⚡ Fun fact
 Me encanta **resolver retos de programación** y experimentar con nuevas tecnologías.
+
+## 🌟 GitHub Stats
+![GitHub stars](https://img.shields.io/github/stars/tuusuario?style=social)
 

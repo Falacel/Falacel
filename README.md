@@ -11,11 +11,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 🚀 Proyectos
-- Aplicación de gestión de inventarios
-- App móvil de tareas y recordatorios
-- Mini juegos y ejercicios prácticos
+## 🚀 Proyectos destacados
+- **Gestión de Inventarios:** Aplicación de escritorio en Java + MySQL  
+- **App de Tareas:** Aplicación Android para organizar recordatorios y tareas  
+- **Mini Juegos y ejercicios prácticos** durante la formación
 
 ## 📫 Contacto
 - Email: andres_1002@hotmail.com
+
+## ⚡ Fun fact
+Me encanta **resolver retos de programación** y experimentar con nuevas tecnologías.
 

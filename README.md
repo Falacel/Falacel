@@ -17,7 +17,7 @@
 - **Mini Juegos y ejercicios prácticos** durante la formación
 
 ## 📫 Contacto
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](andres_1002@hotmail.com)
+- Email: andres_1002@hotmail.com
 
 ## ⚡ Fun fact
 Me encanta **resolver retos de programación** y experimentar con nuevas tecnologías.

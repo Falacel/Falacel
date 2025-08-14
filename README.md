@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Andrés
 
-<!--
-**Falacel/Falacel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy graduado del ciclo superior de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y apasionado por la programación y la creación de soluciones tecnológicas.
 
-Here are some ideas to get you started:
+## 💻 Habilidades
+- Java, C#
+- Desarrollo de aplicaciones de escritorio y móviles
+- Bases de datos: MySQL, SQLite
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Proyectos
+- Aplicación de gestión de inventarios
+- App móvil de tareas y recordatorios
+- Mini juegos y ejercicios prácticos
+
+## 📫 Contacto
+- Email: andres_1002@hotmail.com
+

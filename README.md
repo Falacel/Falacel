@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy Andrés
 
-Soy graduado del ciclo superior de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y apasionado por la programación y la creación de soluciones tecnológicas.
+🎓 Graduado en **Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+💻 Apasionado por la programación y la creación de soluciones tecnológicas
 
 ## 💻 Habilidades
 - Java, C#

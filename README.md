@@ -24,5 +24,4 @@ Me encanta **resolver retos de programación** y experimentar con nuevas tecnolo
 
 ## 🌟 GitHub Stats
 ![GitHub stars](https://img.shields.io/github/stars/tuusuario?style=social)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact)
 
